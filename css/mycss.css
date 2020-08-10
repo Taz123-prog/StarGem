@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    color: rgb(53, 7, 97);
+    font-style: initial;
+    font-size: medium;
+    background-color: blueviolet;
+}
+
+.box{
+    width: 9cm;
+    color: blanchedalmond;
+    border-style: dotted;
+    border-width: thick;
+    margin: 0 auto;
+    }
+
+.boxing{
+    width: 20cm;
+    border-color: black;
+    border-style: double;
+    border-width: medium;
+    margin: 0 auto;
+    height: 10cm;
+    border-style: solid;
+}
+
+.fullbox{
+    width: 22cm;
+    border-color: blanchedalmond;
+    border-style: solid;
+    border-width: medium;
+    margin: 0 auto;
+    height: 15cm;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    width:100%;
+}
+
+
+.green{
+    color: green;
+    background: black;
+}
+
+.greentext{
+    line-height: 0.7cm;
+}
+
+.blue{
+    color: blue;
+    background-color: black;
+}
+
+.bluetext{
+line-height: 1.5cm;
+}
+
+.red{
+    color: red;
+    background-color: black;
+}
+
+.redtext{
+    line-height: 1.3cm;
+}
+
+.polish{
+    background-color: grey;
+    color: black;
+}
+
+.polishtext{
+    line-height: 0.7cm;
+}
